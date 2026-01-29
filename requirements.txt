@@ -6,3 +6,4 @@ pdf2image
 Pillow>=10.4.0
 reportlab
 PyPDF2
+fpdf
